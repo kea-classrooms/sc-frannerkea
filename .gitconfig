@@ -1,0 +1,4 @@
+[alias]
+	co = checkout
+	root = rev-parse --show-toplevel
+	
